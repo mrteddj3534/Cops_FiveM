@@ -11,6 +11,7 @@ config = {
 
 	enablePaychecks = true,
 	weekly_salary = 931,
+	start police
 	
 	propsSpawnLimitByCop = 20,
 		
